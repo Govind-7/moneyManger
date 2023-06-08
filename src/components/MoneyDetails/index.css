@@ -1,0 +1,41 @@
+.money-card1 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ecfccb;
+  border-radius: 10px;
+  width: 300px;
+  padding: 20px;
+  margin: 10px;
+  border-style: solid;
+  border-color: #84cc16;
+}
+
+.money-card2 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #cffafe;
+  border-radius: 10px;
+  width: 300px;
+  padding: 20px;
+  margin: 10px;
+  border-style: solid;
+  border-color: #06b6d4;
+}
+.money-card3 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ede9fe;
+  border-radius: 10px;
+  width: 300px;
+  padding: 20px;
+  margin: 10px;
+  border-style: solid;
+  border-color: #7c3aed;
+}
+
+img {
+  width: 25%;
+}
+.alignment {
+  display: flex;
+}
